@@ -1,0 +1,13 @@
+#story {
+  display: none;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+  height: auto;
+}
+.container {
+  display: block;
+  margin: auto;
+}
